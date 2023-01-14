@@ -19,4 +19,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json
 
 ### Software
-Javascript, Mapbox APIs
+* Javascript, Mapbox APIs
