@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Visualizes earthquake data through interactive maps. Shows the differences between the magnitude of earthquakes all over the world for the last seven days. The three map options are Streets, Satellite, and Outdoors. The three layer groups are: Earthquakes, Tectonic, and Major Earthquakes.
+Visualizes earthquake data through interactive maps. Shows the differences between the magnitude of earthquakes all over the world for the last seven days. The three map options are Streets, Satellite, and Outdoors. The three layer groups are: Earthquakes, Tectonic, and Major Earthquakes. The Earthquake and Major Earthquake data are displayed with circle markers. The Tectonic plate data is displayed with a red line. 
 
 
 ### Webpage link
