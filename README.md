@@ -22,6 +22,10 @@ https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.j
 * Javascript, Mapbox APIs
 
 ## Results
-Street view of the map with the Earthquakes, Tectonic, and Major Earthquakes overlay shown. 
+Street view of the map with the Earthquakes, Tectonic, and Major Earthquakes overlay shown:
 
 ![map screenshot](https://user-images.githubusercontent.com/111299372/212496759-e1b0e58a-8b4e-4b97-b079-8be62c8d1955.png)
+
+Options for the display of the map: 
+
+![map overlay options](https://user-images.githubusercontent.com/111299372/212497525-03cda34a-5298-4353-b09c-2f52f380188a.png)
