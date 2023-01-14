@@ -9,4 +9,4 @@
 https://margomerritt.github.io/Earthquake_Challenge/
 
 ### Resources
-* Software: Javascript 
+* Software: Javascript, Mapbox APIs
