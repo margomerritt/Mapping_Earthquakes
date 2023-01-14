@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Visualizes earthquake data through interactive maps. Shows the differences between the magnitude of earthquakes all over the world for the last seven days.
+Visualizes earthquake data through interactive maps. Shows the differences between the magnitude of earthquakes all over the world for the last seven days. The three map options are Streets, Satellite, and Outdoors. The three layer groups are: Earthquakes, Tectonic, and Major Earthquakes.
 
 
 ### Webpage link
