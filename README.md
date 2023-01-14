@@ -9,3 +9,4 @@
 https://margomerritt.github.io/Earthquake_Challenge/
 
 ### Resources
+* Software: Javascript 
