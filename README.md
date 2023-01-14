@@ -20,3 +20,7 @@ https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.j
 
 ### Software
 * Javascript, Mapbox APIs
+
+### Results
+
+![map screenshot](https://user-images.githubusercontent.com/111299372/212496759-e1b0e58a-8b4e-4b97-b079-8be62c8d1955.png)
